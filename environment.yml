@@ -1,0 +1,10 @@
+name: oil_spill_simulation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - opendrift>=1.13
+  - geopandas
+  - cartopy
+  - requests
+  - jupyterlab
